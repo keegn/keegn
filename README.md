@@ -1,5 +1,3 @@
 ### Hi, I’m Keegan
 
-I’m a front-end software engineer and product designer. I'm currently building software to help folks pay for medical expenses over time, interest free at [Paytient](https://github.com/paytient). 
-
-In my free time, I like to [ride my gravel bike](https://www.strava.com/athletes/16025620). 👋
+Frontend engineer and product designer. Currently contracting. Previously founding team at [Paytient](https://github.com/paytient), a new way to pay for out of pocket health care expenses. 👋
